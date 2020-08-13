@@ -1,0 +1,27 @@
+.navbar{
+transition:100ms ease;
+background-color: white;
+
+}
+
+#navbar b{
+	color: black;
+
+}
+#navbar b:hover{
+	color: red;
+
+}
+#onlinetest{
+	background-image: url(../images/study2.jpg); 
+	margin-bottom: 0px;
+	padding-top: 50px;
+}
+
+#reviews{
+	
+	background-image: url(../images/breadcrumb.png);
+	margin-top: 0px;
+	padding-top: 50px;
+	
+}
